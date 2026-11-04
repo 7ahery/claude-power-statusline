@@ -2,7 +2,7 @@
 
 # ◆ Claude Power Statusline
 
-**A two-row status line for Claude Code, built for engineering work.**
+**A status line for Claude Code, built for engineering work.**
 
 Context, plan limits, cache, git and live agent activity. One glance, no context switch.
 
