@@ -1,0 +1,33 @@
+{
+  "name": "claude-power-statusline",
+  "version": "1.0.0",
+  "description": "A two-row status line for Claude Code, built for engineering work.",
+  "type": "module",
+  "bin": {
+    "claude-power-statusline": "install.mjs"
+  },
+  "files": [
+    "install.mjs",
+    "statusline.mjs"
+  ],
+  "scripts": {
+    "preview": "node scripts/preview.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "statusline",
+    "status-line",
+    "terminal",
+    "cli"
+  ],
+  "author": "Michael Tahery",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7ahery/claude-power-statusline.git"
+  }
+}
